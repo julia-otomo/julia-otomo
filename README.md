@@ -1,6 +1,6 @@
 ### Olá ! Sejam bem vindos ao meu perfil 🌸
 
-- 🔭 Sou uma desenvolvedora Front-End e estudando para me tornar uma desenvolvedora Full-Stack
+- 🔭 Sou uma desenvolvedora Web Full-Stack
 - 🌱 Atualmente estou estudando Python e Django
 - 🤔 Estou à procura oportunidades como desenvolvedora Front-End
 - 📫 Contate-me no email: julia_otomoduarte@outlook.com
