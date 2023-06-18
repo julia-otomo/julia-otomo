@@ -13,6 +13,8 @@
   </a>
 </div>
 
+##
+
 
 ### Principais Tecnologias 🛠️
 
@@ -30,6 +32,7 @@
   <img align="center" alt="Julia-Nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
 </div>
 
+##
 
 ### Contato 📧
  
