@@ -8,8 +8,9 @@
 
 <div>
   <a href="https://https://github.com/julia-otomo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julia-otomo&theme=omni&show_icons=true">
-  <img height="180em" src="https://cdn.picrew.me/shareImg/org/202306/338224_QUglVxd4.png">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julia-otomo&theme=omni&show_icons=true">
+    <img height="180em" src="https://cdn.picrew.me/shareImg/org/202306/338224_QUglVxd4.png">
+  </a>
 </div>
 
 
