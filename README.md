@@ -12,7 +12,6 @@
   <img height="180em" src="https://cdn.picrew.me/shareImg/org/202306/338224_QUglVxd4.png">
 </div>
 
-##
 
 ### Principais Tecnologias 🛠️
 
@@ -30,7 +29,6 @@
   <img align="center" alt="Julia-Nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
 </div>
 
-  ##
 
 ### Contato 📧
  
