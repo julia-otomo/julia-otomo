@@ -1,7 +1,7 @@
 ### Olá ! Sejam bem vindos ao meu perfil 🌸
 
 - 🔭 Sou uma desenvolvedora Web Full-Stack
-- 🌱 Atualmente estou estudando Nextjs e tailwind
+- 🌱 Atualmente estou estudando Nextjs e PHP
 - 🤔 Estou à procura oportunidades como desenvolvedora Front-End
 - 📫 Contate-me no email: julia_otomoduarte@outlook.com
 - 😄 Pronomes: ela/dela
