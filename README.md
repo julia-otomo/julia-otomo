@@ -2,7 +2,7 @@
 
 - 🔭 Sou uma desenvolvedora Web Full-Stack
 - 🌱 Atualmente estou estudando Nextjs e PHP
-- 🤔 Estou à procura oportunidades como desenvolvedora Front-End
+- 🤔 Estou à procura oportunidades como desenvolvedora Full-Stack
 - 📫 Contate-me no email: julia_otomoduarte@outlook.com
 - 😄 Pronomes: ela/dela
 
